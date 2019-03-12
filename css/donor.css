@@ -1,0 +1,132 @@
+
+.submit_btn {
+    background-color:#27A4E0;
+    color: #fff;
+    border-radius: 0px;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+  }
+
+.search_bar{
+  padding-top: 50px;
+  width: inherit;
+  text-align: center;
+  padding-bottom: 30px;
+
+}
+
+.col-md-5{
+margin-right: -30px;
+height: auto;
+box-border : 1px, 2px, black;
+border-radius: -10px;
+}
+
+.doctor_result_div {
+
+    padding: 50px 0;
+  border: 2px solid #D0D0D0;
+    box-sizing: border-box;
+}
+
+.para{
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+#donor{
+  float: right;
+margin-right: 30px;
+margin-bottom: 20px;
+}
+
+.loginBackground{
+	background-image: url('../images/2.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 70vh;
+
+}
+.patient_loginBackground{
+	background-image: url('../images/login.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 70vh;
+
+}
+
+
+.background_height
+{
+
+  height:50%;
+  width:100%;
+
+  margin-top:-20px;
+
+
+
+}
+.signIn{
+	font-size: 20px;
+	text-align: center;
+	color: black;
+	text-decoration: underline;
+}
+
+.textCen{
+	text-align: center;
+}
+.SignBackground{
+
+	background-image: url('../images/signin1.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: auto;
+	height: auto;
+}
+#signUpContainer{
+      border: 5px solid ;
+	padding: 3% 4%;
+	margin-top: 50px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.35);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.35);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.35);
+        width : 100%;
+		height:auto;
+}
+.signUp{
+	font-size: 25px;
+	text-align: center;
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom:5%;
+}
+#signupbutton{
+  float: center;
+  text-align: center;
+}

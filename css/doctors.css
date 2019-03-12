@@ -1,0 +1,83 @@
+
+.submit_btn {
+    background-color:#27A4E0;
+    color: #fff;
+    border-radius: 0px;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+  }
+
+.search{
+  padding-top: 30px;
+  width: inherit;
+  text-align: center;
+
+}
+
+.col-md-5{
+margin-right: -30px;
+
+height: auto;
+box-border : 1px, 2px, black;
+border-radius: -10px;
+}
+
+#doc_dept{
+  margin-top: 20px;
+  padding-top: 20px;
+  box-sizing: border-box;
+    border: 2px solid #D0D0D0;
+}
+
+
+.doctor-list-wrap a span {
+    color: #3d9fe2;
+    font-size: 16px;
+    display: inline-block;
+    margin: 0 0 2px 0;
+}
+
+element.style {
+}
+.doctor-list-wrap a {
+    color: #666666;
+
+}
+.doctor-thumb {
+    display: block;
+    min-height: 170px;
+    border: 3px solid #ffffff;
+    text-align: center;
+    padding: 25px 10px 10px 10px;
+    font-size: 13px;
+    border-radius: 6px 6px 6px 6px;
+}
+
+a {
+  background-color: transparent;
+    outline: 0!important;
+    text-decoration: none;
+}
+.doctor-list-wrap .doctor-thumb:hover {
+    border: 1px solid #ebebeb;
+    background-color: #e8e8e8;
+    border-radius: 4px;
+}

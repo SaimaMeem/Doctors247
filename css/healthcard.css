@@ -1,0 +1,27 @@
+
+.hc-background
+{
+  background-image: url('../images/hc.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 80vh;
+  width:auto;
+  margin-right: -30px;
+ margin-top: -30px;
+
+}
+#hc{
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+}
+
+
+.text{
+
+  color: #27A4E0;
+
+}
+.mid{
+    background-color:#ECF0F1;
+}

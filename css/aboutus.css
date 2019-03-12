@@ -1,0 +1,49 @@
+boddy html
+{
+  margin: 0;
+  padding: 0;
+}
+.aboutus-manage
+{
+	 margin-top:-20px;
+}
+.aboutus_background
+{
+  background-image: url('../images/aboutus.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 70vh;
+  width:100%;
+  margin-bottom: 100px;
+
+
+
+
+}
+#about
+{
+  color: WHITE;
+  text-shadow: 2px 2px black;
+}
+
+#co{
+    color: #27A4E0;
+  font-weight: bold;
+}
+
+p
+{
+  font-size: 14px;
+}
+li
+{
+  font-size: 14px;
+}
+.second-part
+{
+  background-color:#ECF0F1;
+  height: auto;
+  margin-top: -100px;
+
+}

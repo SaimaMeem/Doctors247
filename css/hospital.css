@@ -1,0 +1,57 @@
+
+.submit_btn {
+    background-color:#27A4E0;
+    color: #fff;
+    border-radius: 0px;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+  }
+
+.search_bar{
+  padding-top: 50px;
+  width: inherit;
+  text-align: center;
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+}
+
+.col-md-5{
+margin-right: -30px;
+height: auto;
+box-border : 1px, 2px, black;
+border-radius: -10px;
+}
+.doctor_search_left_block{
+
+  text-align: center;
+}
+.doctor_result_div {
+
+    padding: 50px 0;
+  border: 2px solid #D0D0D0;
+    box-sizing: border-box;
+}
+
+.para{
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
